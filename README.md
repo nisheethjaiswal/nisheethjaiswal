@@ -35,7 +35,7 @@ I have previously worked in the fields of Data Engineering and analysis, Financi
 
 🌱 I have previously worked as a Data Engineer and as a Category Manager for Data & Cloud for 4+ years at [Packt](https://www.packt.com) 
 
-🎓 I recieved my Graduation in Mechanical Engineering in 2012 from formerly Uttar Padesh Technical University now known as Dr. A.P.J. Abdul Kalam Technical University, Noida, India.
+🎓 I recieved my Graduation in Mechanical Engineering in 2012 from formerly Uttar Padesh Technical University now known as    Dr. A.P.J. Abdul Kalam Technical University, Noida, India.
 
 ### Personal Profile
 
