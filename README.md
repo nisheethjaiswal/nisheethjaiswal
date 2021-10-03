@@ -2,7 +2,7 @@
 
 ### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"/>, glad you visited my profile :bowtie: 
 
-<h3 align="center">☘️ Hello and Welcome, ☘️ 
+
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=nisheethjaiswal&style=flat-square" alt="nisheethjaiswal" />
  <img alt="Open Source Love" src="https://img.shields.io/badge/-%E2%9D%A4%20Open%20Source-yellowgreen?style=flat-square&logo=Github&logoColor=black" />
