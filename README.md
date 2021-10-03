@@ -1,10 +1,10 @@
 # *Nisheeth Jaiswal*
 
-### Hi there 👋 , glad you visited my profile :bowtie: 
+### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"/>, glad you visited my profile :bowtie: 
 
-<h3 align="center">Hi, and Welcome <img src="https://raw.githubusercontent.com/nisheethjaiswal/nisheethjaiswal/master/gifs/Hi.gif" width="30px"/> </h3>
+<h3 align="center">☘️ Hello and Welcome, ☘️ 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=nisheethjaiswal&style=flat-square" alt="preminstrel" />
+<img src="https://komarev.com/ghpvc/?username=nisheethjaiswal&style=flat-square" alt="nisheethjaiswal" />
  <img alt="Open Source Love" src="https://img.shields.io/badge/-%E2%9D%A4%20Open%20Source-Green?style=flat-square&logo=Github&logoColor=white" />
 </p>
 
