@@ -2,6 +2,12 @@
 
 ### Hi there 👋 , glad you visited my profile :bowtie: 
 
+<h3 align="center">Hi, and Welcome <img src="https://raw.githubusercontent.com/nisheethjaiswal/nisheethjaiswal/master/gifs/Hi.gif" width="30px"/> </h3>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=nisheethjaiswal&style=flat-square" alt="preminstrel" />
+ <img alt="Open Source Love" src="https://img.shields.io/badge/-%E2%9D%A4%20Open%20Source-Green?style=flat-square&logo=Github&logoColor=white" />
+</p>
+
 <!--
 **nisheethjaiswal/nisheethjaiswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -58,3 +64,9 @@ I have previously worked in the fields of Data Engineering and analysis, Financi
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nisheethjaiswal&count_private=true&show_icons=true&theme=onedark&hide_border=true" />
   </tr>
 </table>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=preminstrel&bg_color=22272E&text_color=CDD9E5&count_private=true&show_icons=true&hide_border=true&include_all_commits=true" /> 
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisheethjaiswal&layout=compact&bg_color=22272E&text_color=CDD9E5&langs_count=10&hide_border=true" width="330px"/>
+<img align="right" src="https://github-profile-trophy.vercel.app/?username=nisheethjaiswal&theme=onedark&row=2&column=4&no-frame=true&margin-w=16&margin-h=16&no-bg=true" />
