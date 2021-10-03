@@ -5,7 +5,7 @@
 <h3 align="center">☘️ Hello and Welcome, ☘️ 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=nisheethjaiswal&style=flat-square" alt="nisheethjaiswal" />
- <img alt="Open Source Love" src="https://img.shields.io/badge/-%E2%9D%A4%20Open%20Source-Green?style=flat-square&logo=Github&logoColor=white" />
+ <img alt="Open Source Love" src="https://img.shields.io/badge/-%E2%9D%A4%20Open%20Source-yellowgreen?style=flat-square&logo=Github&logoColor=black" />
 </p>
 
 <!--
