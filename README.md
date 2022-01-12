@@ -37,11 +37,11 @@ I have previously worked in the fields of Data Engineering and analysis, Financi
 
 ### Bio
 
-👨🏻‍💻 I'm post-graduate student at Aston University, Birmingham, United Kingdom in Artificial Intelligence, where I intend to specialize in designing AI models for a wide range of applications including Computer Vision, Natural Language Processing, Speech Recognition, Self-Driving Cars, AI for Healthcare and also helping new start-ups.
+👨🏻‍💻 I'm graduated from Aston University, Birmingham, United Kingdom in Artificial Intelligence, where I intend to specialize in designing AI models for a wide range of applications including Computer Vision, Natural Language Processing, Speech Recognition, Self-Driving Cars, AI for Healthcare and also helping new start-ups.
 
 🌱 I have previously worked as a Data Engineer and as a Category Manager for Data & Cloud for 2 years at [Packt](https://www.packt.com) 
 
-🎓 I recieved my Graduation in Mechanical Engineering in 2012 from formerly Uttar Padesh Technical University now known as    Dr. A.P.J. Abdul Kalam Technical University, Noida, India.
+🎓 Along with master's student in Artificial Intelligence in 2021 from Aston University and also have completed AI certifications from Imperial College London.
 
 ### Personal Profile
 
