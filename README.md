@@ -26,36 +26,32 @@ Here are some ideas to get you started:
 
 ### About
 
-🔭  I'm passionate about Artificial Intelligence, Generative-AI, Deep Learning, Machine Learning, Computer Vision, Natural Language Processing, Analytics Engineering, and Cloud Computing. 
+❤💖  I'm passionate about Artificial Intelligence, Generative-AI, Deep Learning, Machine Learning, Computer Vision, Natural Language Processing, Analytics Engineering, and Cloud Computing. 
 
-🌱  I have previously worked on Data Science contract roles, including AI/ML Engineer for start-ups, and served as an AI and ML mentor for DeepLearning.ai. Additionally, I have held roles involving data engineering and analysis, Financial reporting, fraud transaction analysis, and Pattern Recognition. 
+🌱  I have previously worked on Data Science contract roles, including AI/ML Engineer for start-ups, and served as an AI and ML mentor for DeepLearning.ai. 
+Additionally, I have held roles involving data engineering and analysis, Financial reporting, fraud transaction analysis, and Pattern Recognition. 
 
 🔥  My interest lies in developing simple, yet effective solutions that address high-impact problems for people worldwide and simplify everyday living.
 
-👯  I’m looking for remote projects in AI/ML, analytics engineering, data science solutions, and also to collaborate on mentoring, coaching, and collaborating with fellow enthusiasts in the field of AI and data.
-
-📫  How to reach me: If you have an idea related to my areas of interest, feel free to shoot me an [E-mail](nisheeth.jaiswal2013@gmail.com) 
-
-🤗 I'm active on LinkedIn, so feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nisheethjaiswal/) and let's discuss.
+🎯  I’m looking for remote projects in AI/ML, analytics engineering, data science solutions, and also to collaborate on mentoring, coaching, and collaborating with fellow enthusiasts in the field of AI and data.
 
 ### Bio
-
 👨🏻‍💻 I graduated from Aston University, Birmingham, United Kingdom, in Artificial Intelligence, where I intend to specialize in designing AI models for a wide range of applications, including Computer Vision, Natural Language Processing, Speech Recognition, Self-Driving Cars, AI for Healthcare, and also helping new start-ups.
 
 🎓 Along with a master's degree in Artificial Intelligence in 2021 from Aston University, and have also completed AI certifications from Imperial College London.
 
-### Personal Profile
-
-🌎  [Nisheeth Jaiswal - Github](https://github.com/nisheethjaiswal)
-
 ### Connect
-
 <a href="https://linkedin.com/in/nisheethjaiswal/">
   <img align="left" alt="Nisheeth Jaiswal's LinkedIn" width="20px" height="20px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" />
-</a>
-<br/>  
+</a><br/> 
 
-[Nisheeth Jaiswal - Linkedin](https://linkedin.com/in/nisheethjaiswal/)
+I'm active on LinkedIn, so feel free to connect with me on [Nisheeth Jaiswal - LinkedIn](https://www.linkedin.com/in/nisheethjaiswal/) and let's discuss.  
+
+📫  How to reach me on email: If you have an idea related to my areas of interest, feel free to shoot me an [E-mail](nisheeth.jaiswal2013@gmail.com) 
+### Personal Profile
+🌎  [Nisheeth Jaiswal - Github](https://github.com/nisheethjaiswal)
+
+
 
 ### GitHub Stats
 
