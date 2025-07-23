@@ -26,22 +26,23 @@ Here are some ideas to get you started:
 
 ### About
 
-🔭  I'm passionate about Artificial Intelligence, Deep Learning, Machine Learning, Computer Vision and Natural Language Processing. 
-I have previously worked in the fields of Data Engineering and analysis, Financial reporting, fraud transaction analysis and Pattern Recognition. 
+🔭  I'm passionate about Artificial Intelligence, Generative-AI, Deep Learning, Machine Learning, Computer Vision, Natural Language Processing, Analytics Engineering, and Cloud Computing. 
 
-🌱  My interest is in building AI-based solutions that solve a high-impact problem for people around the globe and simplify everyday living.
+I have previously worked on Data Science contract roles, including AI/ML Engineer for start-ups, and served as an AI and ML mentor for DeepLearning.ai. Additionally, I have held roles involving data engineering and analysis, Financial reporting, fraud transaction analysis, and Pattern Recognition. 
 
-👯  I’m looking to collaborate on mentoring, coaching and collaborating with fellow enthusiasts in the field of AI.
+🌱  My interest lies in developing AI-based solutions that address high-impact problems for people worldwide and simplify everyday living.
+
+👯  I’m looking for remote projects in AI/ML, analytics solutions, also to collaborate on mentoring, coaching, and collaborating with fellow enthusiasts in the field of AI.
 
 📫  How to reach me: If you have an idea related to my areas of interest, feel free to shoot me an [E-mail](nisheeth.jaiswal2013@gmail.com) 
 
 ### Bio
 
-👨🏻‍💻 I'm graduated from Aston University, Birmingham, United Kingdom in Artificial Intelligence, where I intend to specialize in designing AI models for a wide range of applications including Computer Vision, Natural Language Processing, Speech Recognition, Self-Driving Cars, AI for Healthcare and also helping new start-ups.
+👨🏻‍💻 I graduated from Aston University, Birmingham, United Kingdom, in Artificial Intelligence, where I intend to specialize in designing AI models for a wide range of applications, including Computer Vision, Natural Language Processing, Speech Recognition, Self-Driving Cars, AI for Healthcare, and also helping new start-ups.
 
 🌱 I have previously worked as a Data Engineer and as a Category Manager for Data & Cloud for 2 years at [Packt](https://www.packt.com) 
 
-🎓 Along with master's student in Artificial Intelligence in 2021 from Aston University and also have completed AI certifications from Imperial College London.
+🎓 Along with a master's degree in Artificial Intelligence in 2021 from Aston University, and have also completed AI certifications from Imperial College London.
 
 ### Personal Profile
 
@@ -57,13 +58,6 @@ I have previously worked in the fields of Data Engineering and analysis, Financi
 [Nisheeth Jaiswal - Linkedin](https://linkedin.com/in/nisheethjaiswal/)
 
 ### GitHub Stats
-
-<table class="center" style="width:100%;">
-  <tr>
-    <td align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nisheethjaiswal&count_private=true&show_icons=true&theme=onedark&hide_border=true" />
-  </tr>
-</table>
 
 <table class="center" style="width:100%;">
   <tr>
