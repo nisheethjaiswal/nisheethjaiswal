@@ -28,19 +28,19 @@ Here are some ideas to get you started:
 
 🔭  I'm passionate about Artificial Intelligence, Generative-AI, Deep Learning, Machine Learning, Computer Vision, Natural Language Processing, Analytics Engineering, and Cloud Computing. 
 
-I have previously worked on Data Science contract roles, including AI/ML Engineer for start-ups, and served as an AI and ML mentor for DeepLearning.ai. Additionally, I have held roles involving data engineering and analysis, Financial reporting, fraud transaction analysis, and Pattern Recognition. 
+🌱  I have previously worked on Data Science contract roles, including AI/ML Engineer for start-ups, and served as an AI and ML mentor for DeepLearning.ai. Additionally, I have held roles involving data engineering and analysis, Financial reporting, fraud transaction analysis, and Pattern Recognition. 
 
-🌱  My interest lies in developing AI-based solutions that address high-impact problems for people worldwide and simplify everyday living.
+🔥  My interest lies in developing simple, yet effective solutions that address high-impact problems for people worldwide and simplify everyday living.
 
 👯  I’m looking for remote projects in AI/ML, analytics solutions, also to collaborate on mentoring, coaching, and collaborating with fellow enthusiasts in the field of AI.
 
 📫  How to reach me: If you have an idea related to my areas of interest, feel free to shoot me an [E-mail](nisheeth.jaiswal2013@gmail.com) 
 
+🤗 I'm active on LinkedIn, so feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nisheethjaiswal/) and let's discuss.
+
 ### Bio
 
 👨🏻‍💻 I graduated from Aston University, Birmingham, United Kingdom, in Artificial Intelligence, where I intend to specialize in designing AI models for a wide range of applications, including Computer Vision, Natural Language Processing, Speech Recognition, Self-Driving Cars, AI for Healthcare, and also helping new start-ups.
-
-🌱 I have previously worked as a Data Engineer and as a Category Manager for Data & Cloud for 2 years at [Packt](https://www.packt.com) 
 
 🎓 Along with a master's degree in Artificial Intelligence in 2021 from Aston University, and have also completed AI certifications from Imperial College London.
 
