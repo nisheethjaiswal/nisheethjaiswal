@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 🔥  My interest lies in developing simple, yet effective solutions that address high-impact problems for people worldwide and simplify everyday living.
 
-👯  I’m looking for remote projects in AI/ML, analytics solutions, also to collaborate on mentoring, coaching, and collaborating with fellow enthusiasts in the field of AI.
+👯  I’m looking for remote projects in AI/ML, analytics engineering, data science solutions, and also to collaborate on mentoring, coaching, and collaborating with fellow enthusiasts in the field of AI and data.
 
 📫  How to reach me: If you have an idea related to my areas of interest, feel free to shoot me an [E-mail](nisheeth.jaiswal2013@gmail.com) 
 
